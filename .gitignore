@@ -1,0 +1,5 @@
+*.log
+*.asv
+*.m~
+data
+./data/*
